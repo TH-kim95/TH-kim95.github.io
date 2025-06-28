@@ -1,0 +1,9 @@
+title: Tae-Hyun Kim
+email: kth95@kaist.ac.kr
+description: >-
+  Researcher at KAIST SaTReC.
+baseurl: ""
+url: "https://TH-kim95.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
