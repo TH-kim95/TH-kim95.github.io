@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tae-Hyun Kim
+title: TH
 subtitle: Satellite Research Center, KAIST (SaTReC)
 ---
 
