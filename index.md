@@ -1,8 +1,4 @@
----
-layout: home
-title: TH
-subtitle: Satellite Research Center, KAIST (SaTReC)
----
+
 
 ## 👋 About Me
 I'm a researcher at the Satellite Technology Research Center (SaTReC), KAIST. My research interests lie in **origami structures**, **deployable systems**, **space shelters**, and **satellite bus systems**.
