@@ -4,6 +4,6 @@ description: >-
   Researcher at KAIST SaTReC.
 baseurl: ""
 url: "https://TH-kim95.github.io"
-theme: minima
+theme: jeykyll-theme-slate
 plugins:
   - jekyll-feed
